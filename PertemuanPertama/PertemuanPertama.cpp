@@ -24,7 +24,8 @@ int main()
 	nLuas = nAlas * nTinggi / 2;
 	cout << "Luasnya = " << nLuas;
 
-
+	int panjang, lebar, luas;
+	
 }
 
 
